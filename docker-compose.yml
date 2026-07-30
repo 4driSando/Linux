@@ -24,4 +24,4 @@ services:
       - ./custom-data:/home/DAMDAW 
       
     shm_size: '2g'
-    restart: always
+    restart: no
